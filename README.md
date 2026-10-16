@@ -5,10 +5,7 @@
 A simple application to manage student records.
 
 
-
-Status: Development branch update
-
-
+Status: Development branch update + Student details feature
 
 \## Features
 
